@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BarChartView">
+        <attr name="lineColor" format="color"/>
+        <attr name="xTextColor" format="color"/>
+        <attr name="yTextColor" format="color"/>
+        <attr name="barStartColor" format="color"/>
+        <attr name="barEndColor" format="color"/>
+        <attr name="yAxisCount" format="integer"/>
+        <attr name="showXAxis" format="boolean"/>
+    </declare-styleable>
+</resources>
